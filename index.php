@@ -1,4 +1,3 @@
 <?php
 
-echo "test <br>";
-echo "test 2";
+echo "auto - deploy test #3";
